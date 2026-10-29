@@ -1,0 +1,9 @@
+# the development branch
+repo: https://github.com/keepassxreboot/keepassxc#develop
+
+# Email of KeePassXC's maintainers
+primary_contact: team@keepassxc.org
+
+homepage: https://keepassxc.org
+
+disabled: false
